@@ -58,4 +58,4 @@
 <img src="https://github.com/user-attachments/assets/6913cc10-f9fc-4ac0-aecf-92706364430b" width="600"/>
 
 ## Presentation
-<img src="https://github.com/user-attachments/assets/6913cc10-f9fc-4ac0-aecf-92706364430b" width="600"/>
+[<img src="https://github.com/user-attachments/assets/64f371cc-c63f-407a-abfb-7f686df1abc5" width="600"/>](https://github.com/daunJJ/Linkid_BusinessDashboad/blob/main/link-us(%EB%A7%81%EC%BB%A4%EC%A6%88)_%EB%A7%81%ED%82%A4%EB%93%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%20%EC%A0%9C%EC%9E%91.pdf)
